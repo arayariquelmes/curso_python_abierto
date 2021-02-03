@@ -1,0 +1,3 @@
+Seba;Araya;1234
+Marcelo;Munoz;11111
+Maria del Pilar;Gallego;9999
